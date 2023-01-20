@@ -5,5 +5,5 @@ the window keyword is optional.
 */
 
 /*  The Document Object Model (DOM)  */
-const intro = document.getElementById("intro");
-const variables = document.getElementById("variables");
+
+
