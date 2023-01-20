@@ -18,34 +18,37 @@ If you think the value of the variable can change, use let.
     Subsequent characters may be letters, digits, underscores, or dollar signs.
 */
 
+
 // Declare variables (without value assignment)
-let score;
-let lives;
+
+
+
 
 // Initialize variable (declare AND Assign value simultaneously)
-var num = 7;
-const ageToVote = 18;
-let x = 5;
-let y = 7;
+
+
+
 
 
 // Use Variables
 // **Note: An equal sign is used to assign values to variables.
-score = num + 3;
-lives = lives + 1;
-x = x + 12;
+
+
+
 
 
 
 /* ARRAYS: */
-const newEngland = ["New Hampshire", "Vermont", "Maine", "Massachusetts", "Rhode Island", "Connecticut"];
-const grades = [91, 100, 88, 95, 75, 98];
 
-let state = newEngland[2];
-let student2 = grades[1];
+
+
+
+
 
 // The Array object has many methods and properties
-newEngland.length;                      // Sets or returns the number of elements in an array
-newEngland.push("New York");            // Adds new elements to the end of an array, and returns the new length
-newEngland.pop();                       // Removes the last element of an array, and returns that element
-newEngland.indexOf("Rhode Island", 0);  // Search the array for an element and returns its position
+
+
+
+
+
+
